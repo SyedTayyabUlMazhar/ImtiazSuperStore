@@ -1,0 +1,13 @@
+E:\programmes\C#\WinForm\ImtiazSuperStore\ImtiazSuperStore\bin\Debug\ImtiazSuperStore.exe.config
+E:\programmes\C#\WinForm\ImtiazSuperStore\ImtiazSuperStore\bin\Debug\ImtiazSuperStore.exe
+E:\programmes\C#\WinForm\ImtiazSuperStore\ImtiazSuperStore\bin\Debug\ImtiazSuperStore.pdb
+E:\programmes\C#\WinForm\ImtiazSuperStore\ImtiazSuperStore\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\programmes\C#\WinForm\ImtiazSuperStore\ImtiazSuperStore\obj\Debug\ImtiazSuperStore.csprojAssemblyReference.cache
+E:\programmes\C#\WinForm\ImtiazSuperStore\ImtiazSuperStore\obj\Debug\ImtiazSuperStore.LoginForm.resources
+E:\programmes\C#\WinForm\ImtiazSuperStore\ImtiazSuperStore\obj\Debug\ImtiazSuperStore.Properties.Resources.resources
+E:\programmes\C#\WinForm\ImtiazSuperStore\ImtiazSuperStore\obj\Debug\ImtiazSuperStore.csproj.GenerateResource.cache
+E:\programmes\C#\WinForm\ImtiazSuperStore\ImtiazSuperStore\obj\Debug\ImtiazSuperStore.csproj.CoreCompileInputs.cache
+E:\programmes\C#\WinForm\ImtiazSuperStore\ImtiazSuperStore\obj\Debug\ImtiazSuperStore.csproj.CopyComplete
+E:\programmes\C#\WinForm\ImtiazSuperStore\ImtiazSuperStore\obj\Debug\ImtiazSuperStore.exe
+E:\programmes\C#\WinForm\ImtiazSuperStore\ImtiazSuperStore\obj\Debug\ImtiazSuperStore.pdb
+E:\programmes\C#\WinForm\ImtiazSuperStore\ImtiazSuperStore\obj\Debug\ImtiazSuperStore.DataForm.resources
